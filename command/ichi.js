@@ -222,8 +222,8 @@ case 'menu': case 'help': case '?': {
 ╚════════
   `
   let but = [
-  {urlButton: {displayText: 'Source Code ♨️',url: 'https://github.com/NzrlAfndi/Ichigo-Kurosaki'}}, 
-  {urlButton: {displayText: 'Website 🔗',url: 'https://linktr.ee/nzrlafndi'}}, 
+  {urlButton: {displayText: 'Source Code ♨️',url: 'https://tiktok.com/@joceylintangg'}}, 
+  {urlButton: {displayText: 'Website 🔗',url: 'https://instagram.com/joceylintangg'}}, 
   {"quickReplyButton": {"displayText": "Donasi 🗂️","id": `donasi`},},
   {"quickReplyButton": {"displayText": "Owner 👦","id": "owner"},},
   {"quickReplyButton": {"displayText": "Status Bot ⌚","id": `ping`}}
@@ -232,7 +232,7 @@ case 'menu': case 'help': case '?': {
   }
   break
 case 'donasi': case 'sewa': case 'sewabot': {
-  let donasi = `Scan QR Above To Donate
+  let donasi = `Telomsel & Emoney : 081322577123
 
 Rental Bot Prices :
 💰 10k/week
@@ -243,7 +243,7 @@ Rental Bot Prices :
   }
   break
 case 'sc': case 'sourcecode': case 'script': {
-  m.reply('*Script Berasal Dari :* https://github.com/nzrlafndi/ichigo-kurosaki\n\nJangan Lupa Bintang nya!')
+  m.reply('*Script Berasal Dari :* https://instagram.com/joceylintangg\n\nJangan Lupa Bintang nya!')
   }
   break
 case 'owner': {
